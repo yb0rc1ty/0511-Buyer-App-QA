@@ -1,6 +1,7 @@
 {
   "appname": "0511 Buyer App QA",
-  "ocscope": "FullAccess",
+  "ocscope": "FullAccess DevCenterImpersonate",
   "clientid": "519F4CDF-D3FE-41CF-A2C2-E571A36BAF66",
-  "buyerid": "connorjtest_buyer"
+  "buyerid": "connorjtest_buyer",
+  "environment": "test"
 }
